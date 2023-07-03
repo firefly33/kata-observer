@@ -1,13 +1,17 @@
-#kata-observer
+# kata-observer
 Le sous-marin français L'Effroyable est passé en zone blanche et a perdu les communications auprès de la base militaire de commandement.
 Après avoir découvert un signal interprété comme une attaque envers la france par les russes, L'Effroyable a décidé de se mettre en mode contre-offenssive.
 
-##Partie 1
+## Partie 1
 Notre objectif va être de développer une interface de communication entre des sous-marins et la base de commandement.
 
 - Un sous-marin comporte un code secret unique
 - Un sous-marin a la possibilté de se rendre visible à la base de commandement, qui gardera de son côté le code unique du SM
 
+## Partie 2
+Le sous-marin et son centre de commandement sont désormais en mesure de communiquer. Cependant, le sous-marin a désormais besoin de communiquer un message à son avion attitré par l'intermédiaire du centre.
+
+### Partie 3 (bonus)
 
 Pour ne pas que les sous-marins français se tirent dessus entre-eux, il est important que le centre de commandement les garde informés de leur présence entre-eux.
 
