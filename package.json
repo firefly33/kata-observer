@@ -1,0 +1,28 @@
+{
+  "name": "kata-observer",
+  "version": "1.0.0",
+  "description": "Le sous-marin français L'Effroyable est passé en zone blanche et a perdu les communications auprès de la base militaire de commandement. Après avoir découvert un signal interprété comme une attaque envers la france par les russes, L'Effroyable a décidé de se mettre en mode contre-offenssive.",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "tsc && tsc index.ts | node index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/firefly33/kata-observer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/firefly33/kata-observer/issues"
+  },
+  "homepage": "https://github.com/firefly33/kata-observer#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/jest": "^29.5.2",
+    "jest": "^29.5.0",
+    "ts-jest": "^29.1.1",
+    "typescript": "^5.1.6"
+  }
+}

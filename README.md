@@ -9,6 +9,7 @@ Notre objectif va être de développer une interface de communication entre des 
 - Un sous-marin a la possibilté de se rendre visible à la base de commandement, qui gardera de son côté le code unique du SM
 
 ## Partie 2
+
 Le sous-marin et son centre de commandement sont désormais en mesure de communiquer. Cependant, le sous-marin a désormais besoin de communiquer un message à son avion attitré par l'intermédiaire du centre.
 
 ### Partie 3 (bonus)
